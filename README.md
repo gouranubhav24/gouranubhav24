@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI & ML related projects
-- 📫 How to reach me gmail - gouranubhav24@gamil.com
+- 📫 How to reach me gmail - gouranubhav24@gmail.com
 
 <!---
 gouranubhav24/gouranubhav24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
